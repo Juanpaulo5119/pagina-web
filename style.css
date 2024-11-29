@@ -1,8 +1,8 @@
 body {
-    font-family: Arial,  sans-serif; /* Familia de fuentes */
-    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
-    background-color: #f0f0f0; /* El color del fondo de la página web */
-    color: #333333; /* El color del texto*/ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,  sans-serif; /* Familia de fuentes */
+    font-size: 13px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #abe7a2; /* El color del fondo de la página web */
+    color: #a11919; /* El color del texto*/ 
 }
 h1 {
     color: #00a800; /* El color de la cabecera */
